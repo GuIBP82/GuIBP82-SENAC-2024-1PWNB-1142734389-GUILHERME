@@ -1,0 +1,263 @@
+{
+    "jogadores": [
+        {
+            "foto": "images/LionelMessi.jpg",
+            "nome": "Lionel Messi",
+            "nacionalidade": "Argentina",
+            "partidasjogadas": 156,
+            "partidasganhas": 94,
+            "titulos": 4,
+            "gols": 129,
+            "assistencias": 37,
+            "GolsPorPartida": 0.83,
+            "melhoresMomentos": "https://youtu.be/XckGujMPURg?si=-RjI4WFnAK7byee6"
+        },
+        
+        {
+            "foto": "images/CristianoRonaldo.jpg",
+            "nome": "Cristiano Ronaldo",
+            "nacionalidade": "Portugal",
+            "partidasjogadas": 183,
+            "partidasganhas": 115,
+            "titulos": 5,
+            "gols": 140,
+            "assistencias": 48,
+            "GolsPorPartida": 0.77,
+            "melhoresMomentos": "https://youtu.be/iCk2iebosRc?si=aH-_bCSM2PeK3CHz"
+        },
+        
+        {
+            "foto": "images/KarinBenzema.jpg",
+            "nome": "Karim Benzema",
+            "nacionalidade": "França",
+            "partidasjogadas": 152,
+            "partidasganhas": 90,
+            "titulos": 5,
+            "gols": 90,
+            "assistencias": 29,
+            "GolsPorPartida": 0.59,
+            "melhoresMomentos": " https://youtu.be/WobQCrbXD_U?si=FupML7HqO-lLrtdB"
+        },
+       
+        {
+            "foto": "images/GarethBale.jpg",
+            "nome": "Gareth Bale",
+            "nacionalidade": "País de Gales",
+            "partidasjogadas": 66,
+            "partidasganhas": 42,
+            "titulos": 5,
+            "gols": 20,
+            "assistencias": 17,
+            "GolsPorPartida": 0.30,
+            "melhoresMomentos": "https://youtu.be/TgcYv4Fffpc?si=D7TRdU_BzsyycgIv"
+        },
+       
+        {
+            "foto": "images/GerardPique.jpg",
+            "nome": "Gerard Piqué",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 120,
+            "partidasganhas": 73,
+            "titulos": 4,
+            "gols": 16,
+            "assistencias": 7,
+            "GolsPorPartida": 0.13,
+            "melhoresMomentos": "https://youtu.be/QFuxu4T3VN8?si=iFA6Rkb91drrlVyD"
+        },
+       
+        {
+            "foto": "images/SergioRamos.jpg",
+            "nome": "Sergio Ramos",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 129,
+            "partidasganhas": 78,
+            "titulos": 4,
+            "gols": 15,
+            "assistencias": 7,
+            "GolsPorPartida": 0.12,
+            "melhoresMomentos": "https://youtu.be/H0GVemJOmIg?si=LJAhFLfZQH8HfGuo"
+        },
+       
+        {
+            "foto": "images/Isco.jpg",
+            "nome": "Isco",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 65,
+            "partidasganhas": 39,
+            "titulos": 5,
+            "gols": 9,
+            "assistencias": 9,
+            "GolsPorPartida": 0.14,
+            "melhoresMomentos": "https://youtu.be/zCQnmOdivnE?si=8O3zbYjVcbejALhE"
+        },
+
+        {
+            "foto": "images/Marcelo.jpg",
+            "nome": "Marcelo",
+            "nacionalidade": "Brasil",
+            "partidasjogadas": 102,
+            "partidasganhas": 66,
+            "titulos": 5,
+            "gols": 9,
+            "assistencias": 24,
+            "GolsPorPartida": 0.09,
+            "melhoresMomentos": "https://youtu.be/ztaJx_kRisM?si=7Rb8Pb4W_1PTttEZ"
+        },
+        
+        {
+            "foto": "images/Seedorf.jpg",
+            "nome": "Clarence Seedorf",
+            "nacionalidade": "Holanda",
+            "partidasjogadas": 125,
+            "partidasganhas": 65,
+            "titulos": 4,
+            "gols": 11,
+            "assistencias": 17,
+            "GolsPorPartida": 0.09,
+            "melhoresMomentos": "https://youtu.be/J7yc8viP8kw?si=7ZHisZLN_bBo-jbT"
+        },
+        
+        {
+            "foto": "images/Iniesta.jpg",
+            "nome": "Andrés Iniesta",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 130,
+            "partidasganhas": 83,
+            "titulos": 4,
+            "gols": 11,
+            "assistencias": 29,
+            "GolsPorPartida": 0.08,
+            "melhoresMomentos": "https://youtu.be/Ou-vRdqhedU?si=9k5Ya_FNqqOlJL-4"
+        },
+        
+        {
+            "foto": "images/Casemiro.jpg",
+            "nome": "Casemiro",
+            "nacionalidade": "Brasil",
+            "partidasjogadas": 89,
+            "partidasganhas": 58,
+            "titulos": 5,
+            "gols": 7,
+            "assistencias": 7,
+            "GolsPorPartida": 0.08,
+            "melhoresMomentos": " https://youtu.be/P0pemVvLHcY?si=1sJtb6ylB-jFcANi"
+        },
+        
+        {
+            "foto": "images/Modric.jpg",
+            "nome": "Luka Modrić",
+            "nacionalidade": "Croácia",
+            "partidasjogadas": 108,
+            "partidasganhas": 66,
+            "titulos": 6,
+            "gols": 8,
+            "assistencias": 24,
+            "GolsPorPartida": 0.07,
+            "melhoresMomentos": "https://youtu.be/E54aeO2ay4Y?si=ed2dIyZDEaKD9Nem"
+        },
+
+        {
+            "foto": "images/Kroos.jpg",
+            "nome": "Toni Kroos",
+            "nacionalidade": "Alemanha",
+            "partidasjogadas": 135,
+            "partidasganhas": 86,
+            "titulos": 6,
+            "gols": 10,
+            "assistencias": 24,
+            "GolsPorPartida": 0.07,
+            "melhoresMomentos": " https://youtu.be/KcaM13HMwPg?si=H9kvAXPyBOURIUlg"
+        },
+
+        {
+            "foto": "images/Xavi.jpg",
+            "nome": "Xavi Hernández",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 151,
+            "partidasganhas": 91,
+            "titulos": 4,
+            "gols": 11,
+            "assistencias": 33,
+            "GolsPorPartida": 0.07,
+            "melhoresMomentos": " https://youtu.be/YENLBymsE6k?si=XY_plW7wBYFBsgDR"
+        }
+       
+       
+    ],
+    "times": [
+        {
+            "foto": "images/RealMadrid.png",
+            "nome": "Real Madrid Club de Fútbol",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 489,
+            "partidasganhas": 294,
+            "qtdChampions": 15,
+            "championsAnos": [1956, 1957, 1958, 1959, 1960, 1966, 1998, 2000, 2002, 2014, 2016, 2017, 2018, 2022, 2024]
+        },
+        {
+            "foto": "images/Milan.png",
+            "nome": "Associazione Calcio Milan",
+            "nacionalidade": "Itália",
+            "partidasjogadas": 273,
+            "partidasganhas": 133,
+            "qtdChampions": 7,
+            "championsAnos": [1963, 1969, 1989, 1990, 1994, 2003, 2007]
+        },
+        {
+            "foto": "images/Bayern.png",
+            "nome": "FC Bayern München",
+            "nacionalidade": "Alemanha",
+            "partidasjogadas": 394,
+            "partidasganhas": 236,
+            "qtdChampions": 6,
+            "championsAnos": [1974, 1975, 1976, 2001, 2013, 2020]
+        },
+        {
+            "foto": "images/Liverpool.png",
+            "nome": "Liverpool Football Club",
+            "nacionalidade": "Inglaterra",
+            "partidasjogadas": 248,
+            "partidasganhas": 143,
+            "qtdChampions": 6,
+            "championsAnos": [1977, 1978, 1981, 1984, 2005, 2019]
+        },
+        {
+            "foto": "images/Barcelona.png",
+            "nome": "Futbol Club Barcelona",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 349,
+            "partidasganhas": 203,
+            "qtdChampions": 5,
+            "championsAnos": [1992, 2006, 2009, 2011, 2015]
+        }
+    ],
+    "tecnicos": [
+        {
+            "foto": "images/CarloAncelotti.png",
+            "nome": "Carlo Ancelotti",
+            "nacionalidade": "Itália",
+            "partidasjogadas": 191,
+            "partidasganhas": 109,
+            "qtdChampions": 5 
+        },
+
+        {
+            "foto": "images/Guardiola.png",
+            "nome": "Pepe Guardiola",
+            "nacionalidade": "Espanha",
+            "partidasjogadas": 152,
+            "partidasganhas": 96,
+            "qtdChampions": 3 
+        },
+        
+        {
+            "foto": "images/Zidane.png",
+            "nome": "Zinedine Zidane",
+            "nacionalidade": "França",
+            "partidasjogadas": 53,
+            "partidasganhas": 31,
+            "qtdChampions": 3 
+        }
+    ]
+
+}
